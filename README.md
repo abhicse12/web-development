@@ -1,2 +1,2 @@
 # web-development
-my first git repository
+AMAZON CLONE
